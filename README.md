@@ -1,7 +1,7 @@
 # Quicknote
  note app
 
-
+Offline-first notes app with push notifications, multi-language support, and dark/light mode. Built with Flutter.
 
 
 |  Home |   Note |  Notifications | Settings | Add  |Update
